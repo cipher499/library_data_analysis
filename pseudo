@@ -1,0 +1,26 @@
+drop unnecessary columns [D]
+---------------------------------------------
+month(n) - month(n-1) = new students 
+new students - student left = net student gain
+monthly revenue [df]
+average_rev_per_student/per month
+make a column: student_age(months)
+security dep percentage by students
+payment mode by month
+
+students:
+	1. subs plan(monthly, 2m, 3m)-concession
+	2. slot (half-day, full-day)
+
+-------------------------------------------
+september3 column <* ^ *>
+
+make a list of all months
+a function that loops through the list and performs the following operation:
+{i}+"_"{i-1} = len(df[i]) - len(df[i-1]) 	
+
+
+
+--------------
+tuc eht gnikcuf riah dna eht gnikcuf slian
+

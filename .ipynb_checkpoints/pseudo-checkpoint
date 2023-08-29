@@ -1,0 +1,10 @@
+drop unnecessary columns
+month(n) - month(n-1) = new students 
+new students - student left = net student gain
+monthly revenue
+average_rev_per_student
+make a column: student_age(months)
+
+students:
+	1. subs plan(monthly, 2m, 3m)
+	2. slot (half-day, full-day)

@@ -1,0 +1,8 @@
+monthly_rev = []
+
+for col in df[['MAY', 'JUNE', 'JULY', 'AUGUST']].columns:
+    rev = df[col].sum()
+    monthly_rev.append((col,rev))
+
+df_rev = pd.DataFrame(monthly_rev)
+df_rev
